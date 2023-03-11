@@ -1,8 +1,0 @@
-#include <stdio.h>
-int main()
-{
-	int N=1,Y=2;
-
-    int arr[N+Y];
-
-}
