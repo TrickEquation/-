@@ -153,7 +153,6 @@ bool y_row(void)
 	}
 	return false;
 }
-
 //左斜连珠
 bool l_xy(void)
 {
