@@ -129,4 +129,3 @@ bool end(void)
 		return 0;
 	}
 }
-
