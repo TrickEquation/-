@@ -55,9 +55,6 @@ int main()
 	}
 }
 
-
-
-
 //显示地图
 void show(void)
 {
